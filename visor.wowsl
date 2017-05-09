@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54ACD2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/1862_mural_juarez-simbolodelarepublica.jpg</url>
+                <title>1862_mural_juarez-simbolodelarepublica</title>
+                <filesize>581360</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/20304_1.jpg</url>
+                <title>20304_1</title>
+                <filesize>131236</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/27022.png</url>
+                <title>27022</title>
+                <filesize>527104</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/alistan-festejo-de-la-batalla-del-4-de-mayo-en-atlixco.jpg</url>
+                <title>alistan-festejo-de-la-batalla-del-4-de-mayo-en-atlixco</title>
+                <filesize>99601</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/batalla_puebla_inerhm-movil.jpg</url>
+                <title>batalla_puebla_inerhm-movil</title>
+                <filesize>141073</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/batalla-de-puebla.jpg</url>
+                <title>batalla-de-puebla</title>
+                <filesize>104059</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/batalla-puebla.jpg</url>
+                <title>batalla-puebla</title>
+                <filesize>106171</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/DESFILE5DEMAYO-12.jpg</url>
+                <title>DESFILE5DEMAYO-12</title>
+                <filesize>87351</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/en-atlixco-conmemoran-hechos-heroicos-del-4-de-mayo-de-1862.jpg</url>
+                <title>en-atlixco-conmemoran-hechos-heroicos-del-4-de-mayo-de-1862</title>
+                <filesize>126453</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/historia-de-la-batalla-de-puebla.jpg</url>
+                <title>historia-de-la-batalla-de-puebla</title>
+                <filesize>115244</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/ignacio-zaragoza-batalla.jpg</url>
+                <title>ignacio-zaragoza-batalla</title>
+                <filesize>56497</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/LUIS_GORDOA_2.jpg</url>
+                <title>LUIS_GORDOA_2</title>
+                <filesize>494678</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/muralcopia.jpg</url>
+                <title>muralcopia</title>
+                <filesize>52858</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/PABLO_CRESPO_1.jpg</url>
+                <title>PABLO_CRESPO_1</title>
+                <filesize>368316</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/Tercer Parcial/Aplicaciones/app6/imagenes/Wikipuebla_0125.jpg</url>
+                <title>Wikipuebla_0125</title>
+                <filesize>330971</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
