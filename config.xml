@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.example2"
+id = "com.phonegap.example6"
 version ="1.0.0">
 
-<name> app3 BIBLIOGRAFIADEPROGRAMACION </name>
+<name> app6 BATALLADEPUEBLA </name>
 
 <description>
-Aplicación que muestra información sobre los libros, incluyendo el autor y el contenido.
+Aplicación que muestra información sobre la Batalla de Puebla.
 </description>
 
 <author href="https://build.phonegap.com" email="leslie.arcos.cbtis16@gmail.com">
